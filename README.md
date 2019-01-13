@@ -1,5 +1,3 @@
-# DAppSter
-
-DAppSter: Decentralizing File Sharing Applications using Smart Contracts
+# DAppSter: Decentralizing File Sharing Applications using Smart Contracts
 
 Traditional peer-to-peer (P2P) file sharing protocols and architectures employ centralised entities, called trackers, to assist peers to find each other and express their interest in a file. Unfortunately, trackers can not guarantee the anonymity of the peers who may have security or even legal issues. Although modern P2P file sharing protocols are now trackerless and their function relies on distributed hash tables (DHTs), centralised entities are still needed to assist users of the file-sharing architecture to search for a file, before using the trackerless protocol to download it. In this work, we develop DAppSter, a distributed application that is composed of an Ethereum distributed application (DApp) and a client application implemented for mobile devices and desktops. DAppSter is designed to fully decentralise file sharing on the Internet. Extensive experimentation on Ethereum testnets shows that a DAppSter client can perform the same operations as in trackerless architectures in, on average, fifteen seconds.
